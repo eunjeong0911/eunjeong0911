@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ABF200&height=300&section=header&text=Eunjeong✨&fontSize=90)
 ## 🏃Github Stats
-![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjeong0911&show_icons=true&theme=great-gatsby&count_private=true)
+![최은정's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjeong0911&show_icons=true&theme=great-gatsby&count_private=true)
 ## 👨‍💻Tech Stack
 <div style="text-align: center">
 
